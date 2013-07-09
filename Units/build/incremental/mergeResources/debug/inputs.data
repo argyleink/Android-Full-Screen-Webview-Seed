@@ -1,0 +1,13 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1372366387000 7783 03172612ec7d8d2cc6295a185410c3e6501771aa /Users/adam.argyle/AndroidStudioProjects/UnitsProject/Units/src/main/res/drawable-hdpi/ic_launcher.png
+1372366387000 12356 75154d4f6e93c8832a74d3c27c8cf0d44672ea3e /Users/adam.argyle/AndroidStudioProjects/UnitsProject/Units/src/main/res/drawable-xhdpi/ic_launcher.png
+1372366387000 1712 d6fe7a546835c34fa1ee6dad777a4681a54ee210 /Users/adam.argyle/AndroidStudioProjects/UnitsProject/Units/src/main/res/values/styles.xml
+1372366388000 24780 6c2954bdacb8129ac00edfd084b98daf226518e3 /Users/adam.argyle/AndroidStudioProjects/UnitsProject/Units/src/main/res/drawable-xxhdpi/ic_launcher.png
+1372366387000 3760 9d45e7de00dac30e9738dc369dece2835bf9677e /Users/adam.argyle/AndroidStudioProjects/UnitsProject/Units/src/main/res/drawable-mdpi/ic_launcher.png
+1372366387000 489 69d532142c914e35dd14b9c42adf646f0f223949 /Users/adam.argyle/AndroidStudioProjects/UnitsProject/Units/src/main/res/values/attrs.xml
+1372366387000 238 f10999e0bf6fadc73288803ac3be6cf76b8bcc9e /Users/adam.argyle/AndroidStudioProjects/UnitsProject/Units/src/main/res/values/strings.xml
+1372366387000 630 80dba6854d54d05598fe9d76241522de26446913 /Users/adam.argyle/AndroidStudioProjects/UnitsProject/Units/src/main/res/values-v11/styles.xml
+1372366387000 77 279f2987057cb473bdb9ffc8bdc3d1740fc241cb /Users/adam.argyle/AndroidStudioProjects/UnitsProject/Units/src/main/res/values/colors.xml
+1372366908000 705 2f46942eb5fa8f7353906ad890b89affef861fd1 /Users/adam.argyle/AndroidStudioProjects/UnitsProject/Units/src/main/res/layout/activity_fullscreen.xml

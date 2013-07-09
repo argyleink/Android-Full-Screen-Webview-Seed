@@ -1,0 +1,22 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1372366406000 2005 606de1dc6f83b2eadc4bd5c179e1051b92f45d69 /Users/adam.argyle/AndroidStudioProjects/UnitsProject/Units/build/classes/debug/com/blink/units/util/SystemUiHider.class
+1372366406000 339 be116310b778aa2cd5e73fac17af6f3681ca4a0b /Users/adam.argyle/AndroidStudioProjects/UnitsProject/Units/build/classes/debug/com/blink/units/BuildConfig.class
+1372366952000 581 1e0d3cb0ed3591347bd2cef98793491d13cc0885 /Users/adam.argyle/AndroidStudioProjects/UnitsProject/Units/build/classes/debug/com/blink/units/R$style.class
+1372366952000 400 c4492f6d95b097d952ae16405b80ca90b9d2d373 /Users/adam.argyle/AndroidStudioProjects/UnitsProject/Units/build/classes/debug/com/blink/units/R$layout.class
+1372366952000 621 47a248bef2eb8a1b3cd8ce2ffecd76af0108cc98 /Users/adam.argyle/AndroidStudioProjects/UnitsProject/Units/build/classes/debug/com/blink/units/R$styleable.class
+1372366406000 398 6372329cd955443f0bb745c13fccb90adb9d2df2 /Users/adam.argyle/AndroidStudioProjects/UnitsProject/Units/build/classes/debug/com/blink/units/R$drawable.class
+1372366406000 391 7ddc50c1757feaca19edfe4fcd6bf0726249879a /Users/adam.argyle/AndroidStudioProjects/UnitsProject/Units/build/classes/debug/com/blink/units/R$color.class
+1372366406000 627 ed7b5348a733001eaf6d5f7d9b3d88ec4d00b7e4 /Users/adam.argyle/AndroidStudioProjects/UnitsProject/Units/build/classes/debug/com/blink/units/util/SystemUiHider$1.class
+1372366387000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /Users/adam.argyle/AndroidStudioProjects/UnitsProject/Units/libs/android-support-v4.jar
+1372366406000 653 1378eec00807169113c720e842c0e59deea137b8 /Users/adam.argyle/AndroidStudioProjects/UnitsProject/Units/build/classes/debug/com/blink/units/R.class
+1372366406000 2214 1edc4f4ef198218b1e6cf4eee31e0cb3de25762f /Users/adam.argyle/AndroidStudioProjects/UnitsProject/Units/build/classes/debug/com/blink/units/util/SystemUiHiderHoneycomb.class
+1372366406000 1969 792cb71070310a5f9457e5e1247baebe601d6293 /Users/adam.argyle/AndroidStudioProjects/UnitsProject/Units/build/classes/debug/com/blink/units/util/SystemUiHiderHoneycomb$1.class
+1372366406000 1444 b6888d39ceaa0a3e1fab9170f4a23ef568e73303 /Users/adam.argyle/AndroidStudioProjects/UnitsProject/Units/build/classes/debug/com/blink/units/util/SystemUiHiderBase.class
+1372366952000 376 ae5665021952e51d2e4fe74e2fad60375809d438 /Users/adam.argyle/AndroidStudioProjects/UnitsProject/Units/build/classes/debug/com/blink/units/R$id.class
+1373393285000 1831 72d7d7265b8289071df5f4e3a898e23c94605e70 /Users/adam.argyle/AndroidStudioProjects/UnitsProject/Units/build/classes/debug/com/blink/units/FullscreenActivity.class
+1372716026000 1997 f7f61357f76a9f2486e07f07a3470825f99ec25e /Users/adam.argyle/AndroidStudioProjects/UnitsProject/Units/build/classes/debug/com/blink/units/FullscreenActivity$WebAppInterface.class
+1372366406000 291 5b71b6089818130f4f393feec271d0896edf8397 /Users/adam.argyle/AndroidStudioProjects/UnitsProject/Units/build/classes/debug/com/blink/units/util/SystemUiHider$OnVisibilityChangeListener.class
+1372366406000 433 a07c3b3d4d2ed2f7de8c3398c15ca5d981daee7a /Users/adam.argyle/AndroidStudioProjects/UnitsProject/Units/build/classes/debug/com/blink/units/R$attr.class
+1372366952000 462 eb960630328aaa48e1feb79a8377df1e2e91f51e /Users/adam.argyle/AndroidStudioProjects/UnitsProject/Units/build/classes/debug/com/blink/units/R$string.class
